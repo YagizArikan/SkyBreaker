@@ -10,8 +10,6 @@ SkyBreaker 🚀
 
 Minimalist, physics-driven “thrust & rotate” lander built in Unity. No fluff—tight controls, readable code, reusable components.
 
-Play
-
 Controls: A = rotate left · D = rotate right · Space = thrust forward
 Goal: thread the caverns, land on the pad, don’t smack the walls. ⚠️
 
