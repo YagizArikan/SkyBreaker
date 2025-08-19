@@ -11,9 +11,6 @@
 git clone https://github.com/YagizArikan/SkyBreaker.git
 cd SkyBreaker
 ```
-
-SkyBreaker 🚀
-
 Minimalist, physics-driven “thrust & rotate” lander built in Unity. No fluff—tight controls, readable code, reusable components.
 
 Controls: A = rotate left · D = rotate right · Space = thrust forward
@@ -51,6 +48,7 @@ Quit.cs — optional exit action
 
 
 <img width="1680" height="866" alt="SkyBreaker1" src="https://github.com/user-attachments/assets/3f9bbdef-786f-4eb9-8682-51522b320c4f" />
+
 
 
 
