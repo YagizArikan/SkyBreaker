@@ -32,22 +32,11 @@ Quick Setup
 
 Just open Build1
 
-Wire actions: thrust (Space), rotation (A/D).
-
-Code Map
-
-Movement.cs — thrust, rotation, audio/particles
-
-Collision.cs (class named Collusion—consider renaming) — win/lose + scene flow
-
-Oscillation.cs — PingPong mover
-
-Quit.cs — optional exit action
-
 <img width="1680" height="1050" alt="SkyBreaker" src="https://github.com/user-attachments/assets/dee6bb6c-d60a-4441-9b66-d01c5309a61d" />
 
 
 <img width="1680" height="866" alt="SkyBreaker1" src="https://github.com/user-attachments/assets/3f9bbdef-786f-4eb9-8682-51522b320c4f" />
+
 
 
 
