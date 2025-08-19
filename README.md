@@ -24,10 +24,6 @@ Goal: thread the caverns, land on the pad, don’t smack the walls. ⚠️
 
 - Win/lose sequences with scene progression
 
-- Drop-in Oscillation for moving hazards
-
-- Compact, inspector-driven tuning 🛠️
-
 ## Quick Setup
 
 Just open Build1 and enjoy
@@ -36,6 +32,7 @@ Just open Build1 and enjoy
 
 
 <img width="1680" height="866" alt="SkyBreaker1" src="https://github.com/user-attachments/assets/3f9bbdef-786f-4eb9-8682-51522b320c4f" />
+
 
 
 
